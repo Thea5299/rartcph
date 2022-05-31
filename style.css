@@ -10,6 +10,7 @@ Version: 4.9.10.1652091091
 Updated: 2022-05-09 12:11:31
 
 */
+
 #body {
   background-color: #f5ebe0;
 }
@@ -21,7 +22,7 @@ Updated: 2022-05-09 12:11:31
   color: #f5ebe0;
 }
 
-#text {
+.text {
   line-height: 5vh;
 }
 
@@ -59,7 +60,7 @@ Updated: 2022-05-09 12:11:31
 }
 
 @media screen and (max-width: 980px) {
-  p {
+  .text {
     line-height: 10vh;
   }
 }
