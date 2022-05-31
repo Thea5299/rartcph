@@ -13,10 +13,53 @@ Updated: 2022-05-09 12:11:31
 #body {
   background-color: #f5ebe0;
 }
-h1 {
+#h1 {
   color: #f5ebe0;
 }
 
 #undertekst {
   color: #f5ebe0;
+}
+
+#text {
+  line-height: 5vh;
+}
+
+#name {
+  padding: 20px;
+  border: none;
+  margin-bottom: 2vh;
+}
+
+#mail {
+  padding: 20px;
+  border: none;
+  margin-bottom: 2vh;
+}
+
+#select {
+  padding: 20px;
+  border: none;
+  margin-bottom: 2vh;
+}
+
+#write {
+  padding: 50px;
+  border: none;
+  margin-bottom: 2vh;
+}
+
+#button {
+  background-color: #a7a4c2;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  color: #f5ebe0;
+  margin-bottom: 4vh;
+}
+
+@media screen and (max-width: 980px) {
+  p {
+    line-height: 10vh;
+  }
 }
