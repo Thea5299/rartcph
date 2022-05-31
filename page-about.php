@@ -24,6 +24,8 @@ get_header();
     background-repeat: no-repeat;
   /* background-attachment: fixed; */
   background-position: center;
+
+
     }
 </style>
 
@@ -33,7 +35,7 @@ get_header();
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Epilogue:wght@300;400&display=swap" rel="stylesheet"> 
+<link href="style.css" rel="stylesheet">
 
 <section id="body">
 <section id="sec_1" class="d-flex justify-content-center align-items-center">
@@ -41,7 +43,7 @@ get_header();
           <div class="row">
               <div class="col">
                   <h1 class="headline text-center">ABOUT RART CPH</h1>
-                  <p class="sub-header text-center fs-5">- Behind RART CPH, tufting and sustainability</p>
+                  <p id="undertekst" class="sub-header text-center fs-5">- Behind RART CPH, tufting and sustainability</p>
               </div>
           </div>
       </div>
@@ -60,12 +62,12 @@ Nice to touch, nice to watch and nice to the environment and the planet
           </div>
       </section>
 
-      <section id="sec_3" class="col pt-5">
+      <section id="sec_3" class="col pt-5 mx-5">
           <div class="row">
           <div class="col-12 col-md-6">
           <img src="https://designtree.dk/rartcph/wp-content/themes/Divi-child/img/aboutrartbackgroundwithoverlay.png" alt="tuftedrug">
           </div>
-          <div class="col-12 col-md-6">
+          <div class="col-12 col-md-6 px-4">
               <h3>ABOUT RART</h3>
               <p>Hi, my name is Anna and I am the founder of RART CPH. I started RART CPH because I had an urge to create, and instantly fell in love with tufting. I wanted to create something new, and something that wasn’t done before, so I started making mirrors with tufted frames. Later on, I extended with rugs, and love the different possibilities in both pieces.
  
@@ -76,7 +78,7 @@ Nice to touch, nice to watch and nice to the environment and the planet
           </div>
           </div>
       </section>
-
+<break>
       <section id="sec_4" class="col">
           <div class="row">
           <div class="col-12 col-md-6">
