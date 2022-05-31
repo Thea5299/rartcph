@@ -19,8 +19,8 @@ get_header();
    }
 
   #sec_1 {
-        height: 500px;
-        background-image: url("https://designtree.dk/rartcph/wp-content/themes/Divi-child/img/contact.png");
+        height: 350px;
+        background-image: url("https://designtree.dk/rartcph/wp-content/themes/Divi-child/img/splash.png");
     background-repeat: no-repeat;
   /* background-attachment: fixed; */
   background-position: center;
@@ -50,24 +50,12 @@ get_header();
       </div>
       </section>
 
-      <section id="sec_2" class="col pt-5">
-          <div class="row">
-          <div class="col-12 text-center">
-          <h2>RART CPH</h2>
-          </div>
-          <div class="col-12 text-center">
-              <p>RART means nice in danish - Which is the meaning of the brand.
-Nice to touch, nice to watch and nice to the environment and the planet
-</p>
-          </div>
-          </div>
-      </section>
 
       <section id="sec_3" class="col pt-5 mx-5">
           <div class="row">
           
           <div class="col-12 col-md-6 px-4">
-              <h3>CONTACT RART CPH</h3>
+              <h3 id="h3">CONTACT RART CPH</h3>
               <p class="text">Feel free to contact me via rart@cph.com or call +45 XXXXXXXX
  </p>
  <p class="text">
