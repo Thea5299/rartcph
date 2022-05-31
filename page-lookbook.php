@@ -46,7 +46,7 @@ get_header();
           <div class="col-12 text-center">
           <h2>H2</h2>
           </div>
-          <div class="col-12 text-center">
+          <div class="text-center px-5">
               <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos delectus ipsum quidem laboriosam temporibus ducimus dolorem tempore blanditiis dolores, accusamus iste quibusdam dolore officiis ab modi recusandae doloribus totam minima!</p>
           </div>
           </div>

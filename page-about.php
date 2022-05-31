@@ -12,6 +12,12 @@ get_header();
     }
    */
 
+   html, body {
+       margin:0;
+       padding:0;
+       overflow-x:hidden;
+   }
+
   #sec_1 {
         height: 500px;
         background-image: url("https://designtree.dk/rartcph/wp-content/themes/Divi-child/img/aboutrartbackgroundsplash.png");
@@ -47,7 +53,9 @@ get_header();
           <h2>RART CPH</h2>
           </div>
           <div class="col-12 text-center">
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos delectus ipsum quidem laboriosam temporibus ducimus dolorem tempore blanditiis dolores, accusamus iste quibusdam dolore officiis ab modi recusandae doloribus totam minima!</p>
+              <p>RART means nice in danish - Which is the meaning of the brand.
+Nice to touch, nice to watch and nice to the environment and the planet
+</p>
           </div>
           </div>
       </section>
@@ -59,7 +67,12 @@ get_header();
           </div>
           <div class="col-12 col-md-6">
               <h3>ABOUT RART</h3>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat debitis vitae? Illum, quae. Maiores autem vel magni? Eos voluptates voluptatibus corrupti adipisci beatae cumque, voluptate ipsa dolore quas nulla quidem veniam iusto delectus fuga labore debitis amet! Dignissimos sunt, sint deleniti libero distinctio labore. Perspiciatis delectus eum dignissimos obcaecati.</p>
+              <p>Hi, my name is Anna and I am the founder of RART CPH. I started RART CPH because I had an urge to create, and instantly fell in love with tufting. I wanted to create something new, and something that wasn’t done before, so I started making mirrors with tufted frames. Later on, I extended with rugs, and love the different possibilities in both pieces.
+ 
+ I get my inspiration from everywhere - from a walk in the forest to a trip down Nørrebrogade. I love coming to Møn where I first had my workshop. Here I get most of my inspiration, and it is also here I by most of my materials from local shops.
+  
+ Every piece is designed and handmade by me. It is unique and made to last. I use a lot of time on every piece and put all my love into each and every one and down to the smallest details.
+ </p>
           </div>
           </div>
       </section>
@@ -68,9 +81,12 @@ get_header();
           <div class="row">
           <div class="col-12 col-md-6">
           <h3>TUFTING</h3>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat debitis vitae? Illum, quae. Maiores autem vel magni? Eos voluptates voluptatibus corrupti adipisci beatae cumque, voluptate ipsa dolore quas nulla quidem veniam iusto delectus fuga labore debitis amet! Dignissimos sunt, sint deleniti libero distinctio labore. Perspiciatis delectus eum dignissimos obcaecati.</p>
+              <p>Every piece is tufted by hand with a tufting gun. Every time I create a new piece, I put up a tufting cloth which functions as a big canvas. I use two kind of tufting guns - one which makes u-shapet loops and a cut-gun which cuts the yarn. Every piece is made on the backside of the canvas, so it is always exciting to look at the front once in a while during the making of a piece.
+</p>
               <h3>SUSTAINABILITY</h3>
-              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illo fugiat debitis vitae? Illum, quae. Maiores autem vel magni? Eos voluptates voluptatibus corrupti adipisci beatae cumque, voluptate ipsa dolore quas nulla quidem veniam iusto delectus fuga labore debitis amet! Dignissimos sunt, sint deleniti libero distinctio labore. Perspiciatis delectus eum dignissimos obcaecati.</p>
+              <p>Sustainability was a priority from the get go. It was important to me that approximately 80% off my yarn was recycled. Even though it is cheaper and easier to find new yarn in shops, I started searching for a sustainable alternative. I found a local dealer, who buys yarn from the fashion industry’s waste in Italy, Spain and France. This is where most of my yarn is from because of the cause and quality.
+I mostly use wool and alpaca wool to get the best possible quality that last.
+</p>
           </div>
           <div class="col-12 col-md-6">
               <img src="https://designtree.dk/rartcph/wp-content/themes/Divi-child/img/aboutrartbackgroundwithoverlay.png" alt="tuftedrug">
